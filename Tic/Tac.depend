@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514106259 source:c:\users\peanutt\desktop\info\tac\tic\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<iomanip>
+
