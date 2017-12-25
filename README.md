@@ -1,1 +1,1 @@
-## This is the classic Tic Tac Toe game
+## The classic Tic Tac Toe game
